@@ -1,3 +1,10 @@
 <h1>Welcome to spittr</h1>
     <a href="spittr">Spittles</a> | 
     <a href="spittr">Register</a>
+    <h2>How many people visited this web?</h2>
+    $c
+    <h2>Your IP</h2>
+    $IP
+    <h2>Your MAC</h2>
+    $MAC
+   
